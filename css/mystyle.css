@@ -1,0 +1,71 @@
+ body {
+  font: 10px sans-serif;
+  font-weight: bold;
+} 
+
+.axis text {
+  font-family: 'Poiret One', cursive;
+  font-size: 12px;
+  color: gray;
+}
+.axis .smallText
+{
+  font-weight: bolder;
+  font-size: 12px;
+}
+.axis .label {
+  font-size: 22px;
+  font-weight: bold;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.cases
+{
+  font-size: 13px;
+  font-weight: bolder;
+}
+.color-legend text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12pt;
+}
+
+
+
+.line {
+  fill: none;
+  stroke-width: 2px;
+}
+
+.nav
+{
+	text-align: center;
+}
+
+.nav a
+{
+  text-align: center;	
+  color: black;
+  padding-left: 30px;
+  text-decoration: none;
+  font-size: 10px;
+  margin-top: 100px;
+  font-size: 25px;
+
+	
+
+}
+.nav a:hover
+{
+	color: gray;
+}
+
+.desc
+{
+	font-weight: normal;
+	text-align: center;
+	font-size: 15px;
+}
